@@ -15,6 +15,6 @@ jobs:
         # Token to connect to Github. Use secrets.GITHUB_TOKEN
         githubToken: ${{ secrets.GITHUB_TOKEN }}
         # Path of your package in your repository
-        relativePath: .
+        #relativePath: .
         # Minimum level for annotations. Accepted values are [info, warning, error].
         #minAnnotationLevel: # optional, default is info
