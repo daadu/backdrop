@@ -1,0 +1,2 @@
+- name: Dart/Flutter Package Analyzer
+  uses: axel-op/dart-package-analyzer@v2.0.0
